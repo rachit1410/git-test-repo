@@ -12,8 +12,8 @@ pip install django
 ## Create project
 
 ```bash
-django-admin start project < project-name >
-cd < project-name >
+django-admin startproject <project-name>
+cd <project-name>
 ```
 
 ## Run
